@@ -2,7 +2,7 @@
 
 URL : https://linux-helpers.alexisphilip.fr
 
-These are my UNIX helpers and notes on how to :
+These are my Linux helpers and notes on how to :
 - manage UNIX users and groups ;
 - manage SFTP users and restrictions ;
 - manage LAMP (Apache & MySQL). 
